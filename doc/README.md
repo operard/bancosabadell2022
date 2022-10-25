@@ -19,4 +19,4 @@
 
 ## Wallet to be used by Oracle Analytics Cloud 
 
-[Redbull ADW Wallet](https://github.com/operard/vidacaixa2022/blob/main/doc/Wallet_REDBULLDB_low.zip)
+[Redbull ADW Wallet](https://github.com/operard/bancosabadell2022/blob/main/doc/Wallet_RedbullADB.zip)
