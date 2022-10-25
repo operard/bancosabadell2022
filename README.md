@@ -2,7 +2,7 @@
 
 The online livelabs documentation for the Banco Sabadell 2022 Hackathon event could be found [here](https://operard.github.io/learning-library/analytics-library/redbull-multitenant/workshops/freetier/?lab=intro) 
 
-The documentation to follow instructions could be found [here](https://github.com/operard/vidacaixa2022/blob/main/doc/vidacaixa_Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%2023-MAY-2022.pdf)
+The documentation to follow instructions could be found [here](https://github.com/operard/bancosabadell2022/blob/main/doc/banco_sabadell_Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%2025-OCT-2022.pdf)
 
 During the Banco Sabadell 2022 Event, each developer must use the next URLs: 
 
