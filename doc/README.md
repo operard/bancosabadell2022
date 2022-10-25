@@ -2,7 +2,7 @@
 
 ## Presentation used during the event
 
-[Sabadell Hackathon Event](https://github.com/operard/vidacaixa2022/blob/main/doc/vidacaixa_Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%2023-MAY-2022.pdf)
+[Sabadell Hackathon Event](https://github.com/operard/bancosabadell2022/blob/main/doc/banco_sabadell_Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%2025-OCT-2022.pdf)
 
 ## Script to update DB Schema for Training Model
 
