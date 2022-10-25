@@ -8,7 +8,7 @@
 
 Download the next file in order to update your current table RACES:
 
-[2021 Dataset CSV Scored](https://github.com/operard/vidacaixa2022/blob/main/doc/races_2021_scored.csv)
+[2021 Dataset CSV Scored](https://raw.githubusercontent.com/operard/bancosabadell2022/main/doc/races_2021_scored.csv)
 
 ## Wallet to be used by Oracle Analytics Cloud 
 
